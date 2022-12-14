@@ -183,6 +183,7 @@ public class Graph
             }
         Console.WriteLine(this.result);
         Console.WriteLine(">>Distance: {0:N2}km", startToCurrent);
+        edges = new List<Edge>();
     }
 }
 public class Program
