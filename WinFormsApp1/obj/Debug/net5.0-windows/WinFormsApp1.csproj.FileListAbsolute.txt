@@ -38,3 +38,22 @@ C:\Users\84898\Desktop\DSA end\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-window
 C:\Users\84898\Desktop\DSA end\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
 C:\Users\84898\Desktop\DSA end\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\84898\Desktop\DSA end\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Dijkstra.resources
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Huy\Source\Repos\Dijkstra\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll

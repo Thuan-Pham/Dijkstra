@@ -67,10 +67,6 @@ public class Graph
             AddVertex(s[0], int.Parse(s[1]), int.Parse(s[2]));
         }
 
-        // AddVertex("0hcm",3,4); AddVertex("1vinh",4,3);
-        // AddVertex("2danang",5,1); AddVertex("3camau",4,1);
-        // AddVertex("4halong",9,0); AddVertex("5hanoi",7,3);
-        // AddVertex("6binhdinh",6,4); 
 
         // doc file de addEdge
         string[] EdgeData = File.ReadAllLines(@"EdgeList.txt");
