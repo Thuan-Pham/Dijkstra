@@ -87,7 +87,7 @@ public class Graph
     }
     public void Path(int from, int to)
     {
-        ;
+        
         int startTree = from;
         vertexList[startTree].isInTree = true;
         nTree = 0;
@@ -113,6 +113,7 @@ public class Graph
         nTree = 0;
         for (int j = 0; j <= nVerts - 1; j++)
             vertexList[j].isInTree = false;
+        sPath = new DistOriginal[max_verts];
     }
     // Get index of vertex has shortest distance
     public int GetMin()
